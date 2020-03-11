@@ -106,6 +106,40 @@ function App() {
           <h2>Experience</h2>
 
           <Experience
+            company="Surge"
+            title="Senior Software Engineer"
+            dates="September 2016 - Present"
+          >
+            <p>
+              As a contract software engineer, I support existing software
+              development teams in architecting, developing, maintaining, and
+              deploying their projects. I also help define and develop projects
+              from scratch for businesses looking to create web and mobile apps
+              that support their businesses.
+            </p>
+            <p>
+              My experience with the clients that Surge has paired me with have
+              allowed me to work in different industries including insurance
+              underwriting, police investigations, stock market analysis,
+              medical provider evaluation, social networking, and many others.
+              This has not only expanded my technological expertise, but also my
+              ability to adapt to different business models and incorporate
+              business logic for a wide array of client needs.
+            </p>
+            <p>
+              This job is entirely remote, which has required a high degree of
+              self-motivation, discipline, and communication skills in order to
+              ensure projects are delivered on time and that critical issues are
+              resolved in a timely manner.
+            </p>
+            <p>
+              The technologies I have used vary widely between clients. These
+              include React (web and native), Angular, Node.js, SQL, mongodb,
+              and Wordpress (php).
+            </p>
+          </Experience>
+
+          <Experience
             company="Brombal, LLC"
             title="Senior Software Engineer (Owner of Brombal, LLC)"
             dates="May 2011 - Present"
@@ -123,7 +157,7 @@ function App() {
             company="Commerce House"
             title="Lead Developer / Technical Architect"
             website="http://www.commercehouse.com/"
-            dates="March 2014 - August 2017"
+            dates="March 2014 - August 2016"
           >
             <ul>
               <li>
