@@ -73,7 +73,7 @@ function App() {
 
             <p>
               My current focuses include <strong>React</strong> front-ends (web
-              and native), <strong>Node.js</strong> APIs, and
+              and native), <strong>Node.js</strong> APIs, and{" "}
               <strong>Wordpress</strong> custom themes and plugins. I have a
               lifelong passion for writing thoughtful, readable, and practical
               code, and my skill set continuously grows and adapts to the
