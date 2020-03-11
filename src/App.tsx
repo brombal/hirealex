@@ -62,7 +62,7 @@ function App() {
               </p>
             </div>
           </div>
-          <div>
+          <div className={styles.right}>
             <h1>Alex Brombal</h1>
             <p className={styles.subtitle}>Senior Software Engineer</p>
             <p>
@@ -102,7 +102,7 @@ function App() {
             </p>
           </div>
         </section>
-        <section>
+        <section className={styles.experience}>
           <h2>Experience</h2>
 
           <Experience
