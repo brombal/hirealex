@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font: 400 13pt / 1.6 "Montserrat", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #222;
+}
+
+a {
+  color: #1c71b4;
+  text-decoration: none;
+  display: inline-block;
+  transition: all 200ms ease-out;
+}
+
+a:hover {
+  color: #0d4470;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 55pt;
+  line-height: 0.8;
+  margin-bottom: 15px;
+}
+
+h2 {
+  font-size: 40pt;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+p.subtitle {
+  font-size: 25pt;
+  line-height: 1;
+  margin-bottom: 40px;
+}
+
+main {
+  padding: 100px 120px;
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+section {
+  margin-bottom: 100px;
+}
+
+section.primary {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+.left {
+  flex: 0 0 auto;
+  margin-right: 80px;
+}
+
+.image {
+  border-radius: 5%;
+  overflow: hidden;
+  margin-bottom: 30px;
+}
+
+.image img {
+  display: block;
+  width: 400px;
+  height: 400px;
+}
+
+.contact {
+  padding: 0 30px;
+  color: #666;
+  font-size: 15pt;
+}
+
+.contact p {
+  margin-bottom: 15px;
+}
+
+.contact svg {
+  width: 20px !important;
+  margin-right: 10px;
+}

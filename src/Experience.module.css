@@ -1,0 +1,40 @@
+
+.experience {
+    max-width: 800px;
+    margin: 0 auto 50px;
+}
+
+.title {
+    font-size: 22pt;
+    margin-bottom: 15px;
+}
+
+.company {
+    font-weight: 400;
+    font-size: 18pt;
+    margin-bottom: 0;
+    line-height: 1.2;
+}
+
+.website {
+    display: block;
+    font-size: 11pt;
+    color: #1c71b4;
+    text-decoration: none;
+}
+
+.dates {
+    float: right;
+}
+
+.content {
+    padding-top: 30px;
+}
+
+ul {
+    padding-left: 30px;
+}
+
+li {
+    margin-bottom: 10px;
+}
