@@ -3,10 +3,14 @@ import styles from "./App.module.css";
 import Helmet from "react-helmet";
 import Experience from "./Experience";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faEnvelopeOpen, faMapMarkerAlt, faPassport } from "@fortawesome/free-solid-svg-icons";
+import {
+  faEnvelopeOpen,
+  faMapMarkerAlt,
+  faPassport
+} from "@fortawesome/free-solid-svg-icons";
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
-import favicon1024 from './favicon.png';
-import favicon32 from './favicon-32.png';
+import favicon1024 from "./favicon.png";
+import favicon32 from "./favicon-32.png";
 
 function App() {
   return (
@@ -18,12 +22,16 @@ function App() {
         />
         <link rel="icon" type="image/png" href={favicon32} sizes="16x16" />
         <link rel="icon" type="image/png" href={favicon32} sizes="32x32" />
-        <link rel="icon" type="image/png" href={favicon1024} sizes="1024x1024" />
+        <link
+          rel="icon"
+          type="image/png"
+          href={favicon1024}
+          sizes="1024x1024"
+        />
       </Helmet>
 
       <main>
         <section className={styles.primary}>
-
           <div className={styles.left}>
             <div className={styles.image}>
               <img
@@ -82,10 +90,9 @@ function App() {
             <p>
               I also specialize in <strong>user experience</strong>. Creating
               successful applications is more than just writing code—an
-              understanding of user expectations and an eye for good design, as
-              well as the ability to collaborate with the design and UX teams on
-              any project, means creating apps that are both beautiful and
-              functional.
+              understanding of user expectations, an eye for good design, and
+              collaboration with the design and UX teams are all essential to
+              creating apps that are both beautiful and functional.
             </p>
 
             <p>
