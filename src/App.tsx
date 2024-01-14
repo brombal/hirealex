@@ -63,9 +63,9 @@ function App() {
               Application architect and senior software engineer with over 15 years of experience
               specializing in cloud architecture, full-stack web and mobile development, and
               leadership in software development teams. Expertise in developing large-scale cloud
-              applications, predominantly in AWS, and proficient in full-stack web development, from
-              creating usability-focused front-ends (both web and mobile) to developing back-end
-              APIs, databases, and scalable server architecture.
+              applications, and proficient in full-stack web development, from creating
+              usability-focused front-ends (both web and mobile) to developing back-end APIs,
+              databases, and scalable server architecture.
             </p>
 
             <p>
@@ -87,18 +87,14 @@ function App() {
             dates="October 2019 - Present"
           >
             <p>
-              Lead architect on a team that designs and builds a large-scale data ingest platform
-              and web application used by oncologists and hospital administrators for aggregation
-              and analysis of cancer regiments and patient treatment journeys.
+              Lead architect and engineer on a team that designs and builds a large-scale data
+              ingest platform and web application, used by oncologists and hospital administrators
+              for aggregation and analysis of cancer regiments and patient treatment journeys. The
+              system comprised daily processing of 6+ million live patient records, as well as
+              client web applications and internal administration and reporting tools.
             </p>
 
             <ul>
-              <li>
-                Led a team of developers in architecting and developing a big-data analysis platform
-                for analyzing cancer treatment statistics. The system comprised daily processing of
-                6+ million live patient records, as well as client web applications and internal
-                administration and reporting tools.
-              </li>
               <li>
                 Responsible for overall architectural direction of the platform, as well as the
                 technical design and implementation of client-facing products, internal tools, and
@@ -113,11 +109,11 @@ function App() {
                 and visual designs into technical requirements.
               </li>
               <li>
-                Platform is built with React, node.js (express), Redshift, hosted on AWS platform
-                (ECS, S3, Lambda, EMR, etc).
+                Platform built with React, Node.js (express), Redshift and MySQL, and hosted on AWS
+                platform (ECS, S3, Lambda, EMR, etc).
               </li>
               <li>
-                Fully remote work required self-sufficiency, excellent organizational and
+                Fully remote work required self-sufficiency and excellent organizational and
                 communication skills.
               </li>
             </ul>
@@ -135,11 +131,11 @@ function App() {
               mobile apps that support their businesses.
             </p>
             <p>
-              My experience with the clients that Surge has paired me with allowed me to work in
-              different industries including insurance underwriting, law enforcement, financial,
-              medical, social networking, and others. This has not only expanded my technological
-              expertise, but also my ability to adapt to different business models and incorporate
-              business logic for a wide array of client needs.
+              My experience with the clients that Surge paired me with allowed me to work in a
+              variety of different industries including insurance underwriting, law enforcement,
+              financial, medical, social networking, and others. This has not only expanded my
+              technological expertise, but also my ability to adapt to different business models and
+              incorporate business logic for a wide array of client needs.
             </p>
             <p>
               This job was entirely remote, which has required a high degree of self-motivation,
@@ -148,7 +144,7 @@ function App() {
             </p>
             <p>
               The technologies I used vary widely between clients. These include React (web and
-              native), Angular, Node.js, SQL, mongodb, and Wordpress (php).
+              native), Angular, Node.js, SQL, mongodb, and PHP/WordPress.
             </p>
             <ul>
               <li>
@@ -156,11 +152,11 @@ function App() {
                 development on web and mobile application projects.
               </li>
               <li>
-                Projects ranged from single-developer small custom app development to large
+                Projects ranged from small single-developer custom app development to large
                 team-driven multi-discipline web applications.
               </li>
               <li>
-                All work is remote and requires self-sufficiency, excellent organizational and
+                All work was remote and required self-sufficiency and excellent organizational and
                 communication skills.
               </li>
             </ul>
@@ -173,8 +169,9 @@ function App() {
           >
             <p>
               Operating as a freelance web developer, with responsibilities ranging from project
-              discovery, information architecture, front-end development, user experience and visual
-              design, to server-side development, database architecture, and server maintenance.
+              discovery, information architecture, front-end development, and user experience and
+              visual design, to server-side development, database architecture, and server
+              maintenance.
             </p>
           </Experience>
 
@@ -229,18 +226,18 @@ function App() {
           >
             <ul>
               <li>
-                Developed cutting-edge marketing websites and e-mails with a specific focus on front
-                end interactive technologies.
+                Developed cutting-edge marketing websites and e-mails with a specific focus on
+                front-end interactive technologies.
               </li>
               <li>
                 Integrated and maintained several open source and proprietary CMS solutions for
                 large-scale websites.
               </li>
               <li>
-                Worked with php frameworks such as Cake PHP & Zend to boost development times and
+                Worked with PHP frameworks such as Cake PHP & Zend to boost development times and
                 maintain consistent coding standards among a team of developers.
               </li>
-              <li>Developed Facebook apps, iPhone and iPad apps for client marketing campaigns.</li>
+              <li>Developed iPhone, iPad, and Facebook apps for client marketing campaigns.</li>
               <li>
                 Maintained strict coding standards for review by a stringent internal peer review
                 system.
@@ -265,15 +262,15 @@ function App() {
                 processing thousands of live bids daily and a database of nearly 500,000 members.
               </li>
               <li>
-                Helped to develop a custom php framework for very specific business requirements in
+                Helped to develop a custom PHP framework for very specific business requirements in
                 order to aid with workflow and integration with old website.
               </li>
-              <li>Extensive work in repairing old code and upgrading to PHP 5.</li>
+              <li>Extensive work in refactoring old code and upgrading to PHP 5.</li>
               <li>
-                Very controlled and process-centered environment to ensure tasks were completed on
-                time.
+                Ensured tasks were completed on time in a very controlled and process-centered
+                environment
               </li>
-              <li>Required use of CVS for version control among 6-7 other developers.</li>
+              <li>Utilized CVS for version control among 6-7 other developers.</li>
               <li>
                 Worked with a team of developers to ensure consistency and quality coding standards.
               </li>
@@ -289,9 +286,9 @@ function App() {
             <ul>
               <li>
                 Front-end and back-end development of client websites using platforms including
-                wordpress, drupal, and magento.
+                WordPress, Drupal, and Magento.
               </li>
-              <li>Helped to architect and develop an in-house custom php framework.</li>
+              <li>Helped to architect and develop an in-house custom PHP framework.</li>
               <li>
                 Worked with a team of developers to ensure consistency and quality coding standards.
               </li>

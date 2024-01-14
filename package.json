@@ -23,8 +23,7 @@
   "source": "src/index.html",
   "scripts": {
     "start": "parcel --open --dist-dir=./docs",
-    "build": "rm -rf ./docs && parcel build --no-cache --dist-dir=./docs && cp ./public/* ./docs/",
-    "deploy": "gh-pages -d build"
+    "build": "rm -rf ./docs && parcel build --no-cache --dist-dir=./docs && cp ./public/* ./docs/"
   },
   "browserslist": {
     "production": [

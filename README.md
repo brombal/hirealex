@@ -4,12 +4,13 @@ This is the source code for my personal resume website, brombal.com
 
 ## Development notes
 
-### `npm start`
+### Development
 
-Runs the app in the development mode.
+Run `npm start` to start the app in the development mode.
 
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:1234] to view it in the browser.
 
-### `npm run deploy`
+### Deploying
 
-Builds the app for production to the `gh-pages` branch and deploys it to GitHub.
+Run `npm run build` to build the application, then commit the results to the `main` branch and push
+to GitHub.
