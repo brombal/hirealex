@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./App.module.css";
+import * as styles from "./App.module.css";
 import Helmet from "react-helmet";
 import Experience from "./Experience";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";

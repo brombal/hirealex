@@ -6,7 +6,8 @@ This is the source code for my personal resume website, brombal.com
 
 ### `npm start`
 
-Runs the app in the development mode.<br />
+Runs the app in the development mode.
+
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### `npm run deploy`

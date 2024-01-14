@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./Experience.module.css";
+import * as styles from "./Experience.module.css";
 
 interface ExperienceProps {
   company: string;
